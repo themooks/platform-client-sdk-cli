@@ -9,4 +9,3 @@ updates:
     directory: "/build/gc/" # Location of package manifests
     schedule:
       interval: "weekly"
-    versioning-strategy: increase
